@@ -1,1 +1,2 @@
+"english" "[Limitless Potential] Dead players will respawn when a checkpoint is activated"
 "spanish" "[Limitless Potential] Los jugadores muertos van a aparecer cuando se active un punto de control"
