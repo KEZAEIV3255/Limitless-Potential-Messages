@@ -1,0 +1,3 @@
+"english" "Change survival mode"
+"spanish" "Cambiar modo de supervivencia"
+"portuguese" "Cambiar modo de supervivencia"

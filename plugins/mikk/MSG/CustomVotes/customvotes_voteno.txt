@@ -1,0 +1,3 @@
+"english" "No"
+"spanish" "No"
+"portuguese" "No"

@@ -1,0 +1,2 @@
+"english" "Los escaudrones de enemigos van a seguir a cualquiera de su escuadron que haya encontrado un enemigo"
+"spanish" "Los escaudrones de enemigos van a seguir a cualquiera de su escuadron que haya encontrado un enemigo"

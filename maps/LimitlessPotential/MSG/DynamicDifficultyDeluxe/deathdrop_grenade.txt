@@ -1,0 +1,2 @@
+"english" "Los monsters que poseen granadas tienen un $percent$ de probabilidad de lanzar una granada al morir"
+"spanish" "Los monsters que poseen granadas tienen un $percent$ de probabilidad de lanzar una granada al morir"

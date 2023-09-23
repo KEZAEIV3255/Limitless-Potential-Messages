@@ -1,0 +1,2 @@
+"english" "Survival mode is active, No more respawning allowed for connected players."
+"spanish" "El modo supervivencia esta activado, no habra mas reapariciones para los jugadores conectados."

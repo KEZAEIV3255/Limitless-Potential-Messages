@@ -1,0 +1,2 @@
+"english" "[DynamicDifficultyDeluxe] Votaste por la dificultad $diff$ porciento"
+"spanish" "[DynamicDifficultyDeluxe] Votaste por la dificultad $diff$ porciento"

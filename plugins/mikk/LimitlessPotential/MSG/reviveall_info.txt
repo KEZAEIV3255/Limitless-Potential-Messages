@@ -1,0 +1,1 @@
+"spanish" ".lp_cmd reviveall | Revivir y respawnear a todos en un spawnpoint valido"

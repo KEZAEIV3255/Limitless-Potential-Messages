@@ -1,0 +1,3 @@
+"english" "Welcome to Limitless Potential, Select an option."
+"spanish" "Bienvenido a Limitless Potential, Seleccione una opcion."
+"portuguese" "Bienvenido a Limitless Potential, Seleccione una opcion."

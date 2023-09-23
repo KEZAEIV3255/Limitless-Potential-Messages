@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] You can't vote yet. Wait $time$ seconds."
+"spanish" "[Custom Vote menu] No puedes votar todavia. Espera $time$ segundos."
+"portuguese" "[Custom Vote menu] No puedes votar todavia. Espera $time$ segundos."

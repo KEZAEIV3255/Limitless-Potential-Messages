@@ -1,0 +1,2 @@
+"english" "Mostrar informacion de dificultad actual."
+"spanish" "Mostrar informacion de dificultad actual."

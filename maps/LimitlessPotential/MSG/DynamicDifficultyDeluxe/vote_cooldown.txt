@@ -1,0 +1,2 @@
+"english" "[DynamicDifficultyDeluxe] La votacion esta desactivada por el momento, intenta en $cooldown$ segundos."
+"spanish" "[DynamicDifficultyDeluxe] La votacion esta desactivada por el momento, intenta en $cooldown$ segundos."

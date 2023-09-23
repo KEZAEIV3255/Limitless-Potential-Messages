@@ -1,0 +1,1 @@
+"spanish" "El rango de sonido por acciones fue asignado globalmente, todo el mundo los va a oir"

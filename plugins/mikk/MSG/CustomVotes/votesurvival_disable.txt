@@ -1,0 +1,3 @@
+"english" "Deactivate survival mode"
+"spanish" "Desactivar Modo supervivencia"
+"portuguese" "Desactivar Modo supervivencia"

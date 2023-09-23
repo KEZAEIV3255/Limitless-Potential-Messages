@@ -1,0 +1,1 @@
+"spanish" "[Limitless Potential] Admin $admin$ Actualizo el rol de $target$ como $role$"

@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] Select a vote type"
+"spanish" "[Custom Vote menu] Elija un tipo de votacion"
+"portuguese" "[Custom Vote menu] Elija un tipo de votacion"

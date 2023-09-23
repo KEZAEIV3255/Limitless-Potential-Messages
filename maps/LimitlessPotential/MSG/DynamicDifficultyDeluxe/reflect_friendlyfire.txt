@@ -1,0 +1,2 @@
+"english" "El danio inflingido a otros jugadores es reflejado"
+"spanish" "El danio inflingido a otros jugadores es reflejado"

@@ -1,0 +1,3 @@
+"english" "You want to kill the player $args$?"
+"spanish" "¿Quieres matar al jugador $args$?"
+"portuguese" "Quieres matar al jugador $args$?"

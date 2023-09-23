@@ -1,0 +1,5 @@
+"english" "You don't have enough energy to use your flashlight. You need $battery$ suit power to recharge your flashlight."
+"spanish" "No tienes suficiente energia para usar tu linterna. Necesitas $battery$ puntos de energia en el traje para restaurar tu linterna."
+"portuguese" "Voce nao tem energia suficiente para usar a lanterna. Voce precisa de $battery$ pontos de energia do traje para recarregar a lanterna."
+"hold" "2.0f"
+"color" "255 0 0 255"

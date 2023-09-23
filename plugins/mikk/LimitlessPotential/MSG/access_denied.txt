@@ -1,0 +1,1 @@
+"spanish" "[Limitless Potential] No tienes acceso nivel $level$ para usar este comando!"

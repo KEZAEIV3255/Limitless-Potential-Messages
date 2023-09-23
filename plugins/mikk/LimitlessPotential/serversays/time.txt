@@ -1,0 +1,2 @@
+"english" "[Limitless Potential] This map has been running for $restarts$ restart(s), total time $days$ day(s), $hours$ hour(s), $minutes$ minute(s)."
+"spanish" "[Limitless Potential] Este mapa estuvo corriendo durante $restarts$ reinicio(s), tiempo total $days$ dia(s), $hours$ hora(s), $minutes$ minuto(s)."

@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] Vote succesful."
+"spanish" "[Custom Vote menu] Votacion exitosa."
+"portuguese" "[Custom Vote menu] Votacion exitosa."

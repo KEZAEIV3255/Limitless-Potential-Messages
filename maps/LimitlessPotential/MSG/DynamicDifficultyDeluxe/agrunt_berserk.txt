@@ -1,0 +1,2 @@
+"english" "La distancia de enfrentamiento de los alien grunts es ahora $units$ unidades"
+"spanish" "La distancia de enfrentamiento de los alien grunts es ahora $units$ unidades"

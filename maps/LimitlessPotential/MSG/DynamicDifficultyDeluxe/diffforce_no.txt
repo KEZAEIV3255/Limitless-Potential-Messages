@@ -1,0 +1,2 @@
+"english" "No tienes acceso a este comando, inicia una votacion en el chat escribiendo '/diff'"
+"spanish" "No tienes acceso a este comando, inicia una votacion en el chat escribiendo '/diff'"

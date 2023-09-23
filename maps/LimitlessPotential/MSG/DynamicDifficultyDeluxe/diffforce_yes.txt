@@ -1,0 +1,2 @@
+"english" "La dificultad fue actualizada a $diff$ porciento por el admin $admin$"
+"spanish" "La dificultad fue actualizada a $diff$ porciento por el admin $admin$"

@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] The player $name$ was moved to AFK-mode by a vote."
+"spanish" "[Custom Vote menu] El jugador $name$ fue movido a el modo-AFK por votacion."
+"portuguese" "[Custom Vote menu] El jugador $name$ fue movido a el modo-AFK por votacion."

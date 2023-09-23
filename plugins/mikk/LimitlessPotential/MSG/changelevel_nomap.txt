@@ -1,0 +1,1 @@
+"spanish" "Tienes que especificar el nombre del mapa a cambiar, Ejemplo: .lp_cmd changelevel hl_c04"

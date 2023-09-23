@@ -1,0 +1,1 @@
+"spanish" ".lp_cmd update | Actualiza lenguajes y configuraciones del plugin sin tener que recargarlo"

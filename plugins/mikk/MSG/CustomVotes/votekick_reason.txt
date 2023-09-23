@@ -1,0 +1,3 @@
+"english" "You were kicked from the server by a vote."
+"spanish" "Fuiste echado del servidor por votacion."
+"portuguese" "Fuiste echado del servidor por votacion."

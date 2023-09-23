@@ -1,0 +1,3 @@
+"english" "Yes"
+"spanish" "Si"
+"portuguese" "Sim"

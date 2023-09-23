@@ -1,0 +1,1 @@
+"spanish" ".lp_cmd entity trigger "key" "value" | Simplemente da trigger a la entidad que tenga esta keyvalue, solo entvars"

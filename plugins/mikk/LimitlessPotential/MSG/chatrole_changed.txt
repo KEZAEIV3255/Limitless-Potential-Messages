@@ -1,0 +1,1 @@
+"spanish" "[Limitless Potential] Rol "$role$" asignado a el jugador $name$"

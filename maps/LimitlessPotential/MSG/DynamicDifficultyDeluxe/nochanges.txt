@@ -1,0 +1,2 @@
+"english" "El gameplay no se ve afectado en nada mas que algunas adiciones hardcoded en el servidor."
+"spanish" "El gameplay no se ve afectado en nada mas que algunas adiciones hardcoded en el servidor."

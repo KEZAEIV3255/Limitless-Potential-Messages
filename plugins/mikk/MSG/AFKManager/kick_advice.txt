@@ -1,0 +1,3 @@
+"english" "[AFKManager] The player $name$ has been kicked for being AFK in a full server."
+"spanish" "[AFKManager] El jugador $name$ fue echado del servidor por estar AFK en un servidor lleno."
+"portuguese" "[AFKManager] O jogador $name$ Ele foi expulso do servidor por estar AFK em um servidor cheio."

@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] Vote failed, it needed $need$ percent but it got $got$ percent."
+"spanish" "[Custom Vote menu] Votacion fallida, se necesitaba $need$ porciento pero se obtuvo $got$ porciento."
+"portuguese" "[Custom Vote menu] Votacion fallida, se necesitaba $need$ porciento pero se obtuvo $got$ porciento."

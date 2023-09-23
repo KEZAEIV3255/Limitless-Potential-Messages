@@ -1,0 +1,2 @@
+"english" "You have been respawned before, no respawning allowed for rejoining, Wait until a player takes a checkpoint."
+"spanish" "Ya reapareciste antes, no tendras mas reapariciones por reconectarte, Espera que algun jugador tome un punto de control."

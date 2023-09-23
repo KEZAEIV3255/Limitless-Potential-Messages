@@ -1,0 +1,3 @@
+"english" "Change Anti-Rush mode"
+"spanish" "Cambiar modo de Anti-Rush"
+"portuguese" "Cambiar modo de Anti-Rush"

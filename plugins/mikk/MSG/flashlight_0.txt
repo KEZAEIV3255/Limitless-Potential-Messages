@@ -1,0 +1,5 @@
+"english" "$battery$ of suit power has been consumed to recharge your flashlight."
+"spanish" "Se consumio $battery$ de energia para utilizar tu linterna."
+"portuguese" "$battery$ de energia foi consumida para usar a lanterna."
+"hold" "2.0f"
+"color" "100 100 255 255"

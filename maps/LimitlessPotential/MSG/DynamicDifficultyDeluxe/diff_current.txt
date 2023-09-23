@@ -1,0 +1,2 @@
+"english" "La dificultad actual es $diff$"
+"spanish" "La dificultad actual es $diff$"

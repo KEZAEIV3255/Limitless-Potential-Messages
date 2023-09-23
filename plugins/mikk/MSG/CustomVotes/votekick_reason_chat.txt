@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] Player $name$ was kicked from the server by a vote."
+"spanish" "[Custom Vote menu] El jugador $name$ fue echado del servidor por votacion."
+"portuguese" "[Custom Vote menu] El jugador $name$ fue echado del servidor por votacion."

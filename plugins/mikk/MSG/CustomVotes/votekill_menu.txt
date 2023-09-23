@@ -1,0 +1,3 @@
+"english" "Kill a player"
+"spanish" "Matar a un jugador"
+"portuguese" "Matar a un jugador"

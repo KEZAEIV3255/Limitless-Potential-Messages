@@ -1,0 +1,1 @@
+"spanish" ".lp_cmd revive | Revivir y respawnear en un spawnpoint valido"

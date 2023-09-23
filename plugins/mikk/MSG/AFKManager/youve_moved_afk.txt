@@ -1,0 +1,3 @@
+"english" "[AFKManager] You have been moved to AFK-mode."
+"spanish" "[AFKManager] Fuiste movido al modo AFK."
+"portuguese" "[AFKManager] Voce foi movido para o modo AFK."

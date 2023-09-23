@@ -1,0 +1,2 @@
+"spanish" "[Limitless Potential] Se eligio el lenguage español"
+"english" "[Limitless Potential] Se eligio el lenguage ingles"

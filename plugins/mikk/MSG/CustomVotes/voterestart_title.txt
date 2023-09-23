@@ -1,0 +1,3 @@
+"english" "Restart current map"
+"spanish" "Reiniciar el mapa actual"
+"portuguese" "Reiniciar el mapa actual"

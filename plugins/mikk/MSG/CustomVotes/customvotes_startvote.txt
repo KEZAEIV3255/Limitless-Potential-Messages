@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] Vote started by $name$"
+"spanish" "[Custom Vote menu] Votacion iniciada por $name$"
+"portuguese" "[Custom Vote menu] Votacion iniciada por $name$"

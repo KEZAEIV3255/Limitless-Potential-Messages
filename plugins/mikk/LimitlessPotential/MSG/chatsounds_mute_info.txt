@@ -1,0 +1,1 @@
+"spanish" ".lp_cmd chatsounds mute/unmute | desactiva/activa los chatsounds que oiras, tampoco podras utilizarlos"

@@ -1,0 +1,3 @@
+"english" "Ya agarraste este item anteriormente."
+"spanish" "Ya agarraste este item anteriormente."
+"portuguese" "Ya agarraste este item anteriormente."

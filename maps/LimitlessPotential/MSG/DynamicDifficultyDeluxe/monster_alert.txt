@@ -1,0 +1,2 @@
+"english" "Los enemigos sabran tu localizacion al atacarlos"
+"spanish" "Los enemigos sabran tu localizacion al atacarlos"

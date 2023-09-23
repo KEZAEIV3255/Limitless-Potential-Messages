@@ -1,0 +1,1 @@
+"spanish" "Los sonidos por acciones fueron establecidos en $args$ unidades a la redonda"

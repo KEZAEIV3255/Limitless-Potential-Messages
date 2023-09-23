@@ -1,0 +1,3 @@
+"english" "Being AFK in a full server."
+"spanish" "Estar AFK en un servidor lleno."
+"portuguese" "Ficar AFK em um servidor cheio."

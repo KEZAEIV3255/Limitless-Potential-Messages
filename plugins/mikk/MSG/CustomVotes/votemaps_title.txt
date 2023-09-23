@@ -1,0 +1,3 @@
+"english" "You want to change to the map $args$?"
+"spanish" "¿Quieres cambiar al mapa $args$?"
+"portuguese" "Quieres cambiar al mapa $args$?"

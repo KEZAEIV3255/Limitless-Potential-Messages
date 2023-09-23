@@ -1,0 +1,5 @@
+"english" "[AFKManager] You'll be transfered to spectator mode in $time$ seconds."
+"spanish" "[AFKManager] Seras movido al modo espectador en $time$ segundos."
+"portuguese" "[AFKManager] Voce ira para o modo espectador em $time$ segundos."
+"color" "255 0 0 0"
+"hold" "1.0"

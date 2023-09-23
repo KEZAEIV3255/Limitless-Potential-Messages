@@ -1,0 +1,1 @@
+"spanish" "[Limitless Potential] Para iniciar una votacion escribe /vote y se abrira un menu"

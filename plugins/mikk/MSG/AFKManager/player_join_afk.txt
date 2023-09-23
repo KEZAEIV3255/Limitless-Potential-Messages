@@ -1,0 +1,3 @@
+"english" "[AFKManager] The player $name$ has been moved to AFK-mode."
+"spanish" "[AFKManager] El jugador $name$ fue movido al modo AFK."
+"portuguese" "[AFKManager] O jogador $name$ foi movido para o modo AFK."

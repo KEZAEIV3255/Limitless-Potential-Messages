@@ -1,0 +1,3 @@
+"english" "Select a map to vote"
+"spanish" "Elije un mapa para votar"
+"portuguese" "Elije un mapa para votar"

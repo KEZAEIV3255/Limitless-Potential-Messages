@@ -1,0 +1,3 @@
+"english" "You want to kick the player $args$ from the server?"
+"spanish" "¿Quieres echar al jugador $args$ del servidor?"
+"portuguese" "Quieres echar al jugador $args$ del servidor?"

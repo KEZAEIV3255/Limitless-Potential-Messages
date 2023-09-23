@@ -1,0 +1,2 @@
+"english" "[DynamicDifficultyDeluxe] Se inicio una votacion de dificultad, escribe un valor de 0 a 100 para votar."
+"spanish" "[DynamicDifficultyDeluxe] Se inicio una votacion de dificultad, escribe un valor de 0 a 100 para votar."

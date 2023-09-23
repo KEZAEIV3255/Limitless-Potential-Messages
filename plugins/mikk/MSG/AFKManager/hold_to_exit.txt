@@ -1,0 +1,3 @@
+"english" "Hold +use to exit AFK-mode."
+"spanish" "Manten +use para salir del modo AFK."
+"portuguese" "Segure +use para sair do modo AFK."

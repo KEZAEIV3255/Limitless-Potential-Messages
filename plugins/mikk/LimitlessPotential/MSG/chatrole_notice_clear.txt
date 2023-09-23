@@ -1,0 +1,1 @@
+"spanish" "[Limitless Potential] Admin $admin$ Limpio los roles de $target$"

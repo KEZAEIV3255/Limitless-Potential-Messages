@@ -1,0 +1,1 @@
+"spanish" "El mapa $map$ no existe en el servidor!"

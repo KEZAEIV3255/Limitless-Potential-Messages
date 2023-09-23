@@ -1,0 +1,3 @@
+"english" "[Limitless Potential] Spray by $name$ Auth ID: $steamid$"
+"spanish" "[Limitless Potential] Spray de $name$ ID del autor: $steamid$"
+"portuguese" "[Limitless Potential] Spray de $name$ ID do autor: $steamid$"

@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] You can't vote now, there is a vote in progress."
+"spanish" "[Custom Vote menu] No puedes votar ahora, hay una votacion en curso."
+"portuguese" "[Custom Vote menu] No puedes votar ahora, hay una votacion en curso."

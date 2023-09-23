@@ -1,0 +1,4 @@
+"english" "Modo de disparo rapido"
+"spanish" "Modo de disparo rapido"
+"portuguese" "Modo de disparo rapido"
+"hold" "2.0"

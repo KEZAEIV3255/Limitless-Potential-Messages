@@ -1,0 +1,3 @@
+"english" "[Custom Vote menu] The player $name$ is administrator in this server."
+"spanish" "[Custom Vote menu] El jugador $name$ es administrador en este servidor."
+"portuguese" "[Custom Vote menu] El jugador $name$ es administrador en este servidor."

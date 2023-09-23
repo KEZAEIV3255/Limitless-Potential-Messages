@@ -1,0 +1,3 @@
+"english" "Map change"
+"spanish" "Cambio de mapa"
+"portuguese" "Cambio de mapa"
