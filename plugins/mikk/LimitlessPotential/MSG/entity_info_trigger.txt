@@ -1,1 +1,2 @@
+"english" ".lp_cmd entity trigger | Trigger the entity you are looking at"
 "spanish" ".lp_cmd entity trigger | Simplemente da trigger a la entidad que estas observando"

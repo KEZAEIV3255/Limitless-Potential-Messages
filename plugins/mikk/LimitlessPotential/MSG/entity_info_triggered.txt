@@ -1,1 +1,2 @@
+"english" "Activated entity $name$"
 "spanish" "Se activo la entidad $name$"

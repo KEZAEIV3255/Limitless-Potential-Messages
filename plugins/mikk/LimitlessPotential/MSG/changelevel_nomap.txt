@@ -1,2 +1,2 @@
-"english" "You have to specify the name of the map to change, Exampke: .lp_cmd changelevel hl_c04"
+"english" "You have to specify the map's name, Example: .lp_cmd changelevel hl_c04"
 "spanish" "Tienes que especificar el nombre del mapa a cambiar, Ejemplo: .lp_cmd changelevel hl_c04"

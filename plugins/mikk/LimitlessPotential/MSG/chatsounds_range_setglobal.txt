@@ -1,1 +1,2 @@
+"english" "Assigned the chatsounds range to global"
 "spanish" "Se asigno el rango de chatsounds a global"

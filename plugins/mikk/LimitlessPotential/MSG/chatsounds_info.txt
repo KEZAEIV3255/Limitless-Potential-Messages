@@ -1,1 +1,2 @@
+"english" ".lp_cmd chatsounds list | Show all our chatsounds commands"
 "spanish" ".lp_cmd chatsounds list | Muestra todos los comandos de chatsounds"

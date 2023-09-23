@@ -1,1 +1,2 @@
+"english" ".lp_cmd chatrole "SteamID" "Role" | Change a player's role, send 0 to clear"
 "spanish" ".lp_cmd chatrole "SteamID" "Rol" | Cambia el rol de un jugador, envia 0 para limpiar"

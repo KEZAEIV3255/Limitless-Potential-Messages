@@ -1,1 +1,2 @@
+"english" "[Limitless Potential] Admin $admin$ Cleared all roles of $target$"
 "spanish" "[Limitless Potential] Admin $admin$ Limpio los roles de $target$"

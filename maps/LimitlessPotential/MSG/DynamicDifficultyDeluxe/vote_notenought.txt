@@ -1,2 +1,2 @@
-"english" "[DynamicDifficultyDeluxe] No hubo suficientes votos, se ignoro la votacion."
+"english" "[DynamicDifficultyDeluxe] Not enough votes, vote ignored."
 "spanish" "[DynamicDifficultyDeluxe] No hubo suficientes votos, se ignoro la votacion."

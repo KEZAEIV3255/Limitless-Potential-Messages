@@ -1,1 +1,2 @@
+"english" ".lp_cmd clientinfo | Obtain the information of all players that have connected recently"
 "spanish" ".lp_cmd clientinfo | Obten informacion de todos los jugadores conectados recientemente"

@@ -1,2 +1,2 @@
-"english" "Los alien grunts ahora te empujaran mucho mas lejos"
+"english" "The alien grunts will now push you much further"
 "spanish" "Los alien grunts ahora te empujaran mucho mas lejos"

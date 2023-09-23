@@ -1,2 +1,2 @@
-"english" "Los voltigores ahora tienen un $percent$ de probabilidad de explotar al instante"
+"english" "Voltigores have a $percent$ to instanly explode"
 "spanish" "Los voltigores ahora tienen un $percent$ de probabilidad de explotar al instante"

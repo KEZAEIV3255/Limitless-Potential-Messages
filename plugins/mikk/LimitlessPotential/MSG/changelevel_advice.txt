@@ -1,2 +1,2 @@
-"english" "[Limitless Potential] $admin$ changed level to $map$"
+"english" "[Limitless Potential] $admin$ set the level to $map$"
 "spanish" "[Limitless Potential] $admin$ cambio de nivel a $map$"

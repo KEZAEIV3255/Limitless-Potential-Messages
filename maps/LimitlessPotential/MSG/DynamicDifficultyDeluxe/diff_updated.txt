@@ -1,2 +1,2 @@
-"english" "[DynamicDifficultyDeluxe] La difficultad fue actualizada a $diff$ porciento."
-"spanish" "[DynamicDifficultyDeluxe] La difficultad fue actualizada a $diff$ porciento."
+"english" "[DynamicDifficultyDeluxe] The difficulty has been updated to $diff$ percent."
+"spanish" "[DynamicDifficultyDeluxe] La dificultad fue actualizada a $diff$ porciento."

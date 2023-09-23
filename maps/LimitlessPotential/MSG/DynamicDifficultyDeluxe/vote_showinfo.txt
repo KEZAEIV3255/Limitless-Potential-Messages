@@ -1,2 +1,2 @@
-"english" "Mostrar informacion de dificultad actual."
+"english" "Show information of the current difficulty."
 "spanish" "Mostrar informacion de dificultad actual."

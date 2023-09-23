@@ -1,2 +1,2 @@
-"english" "Los jugadores que mueran no dejaran ningun cadaver revivible"
+"english" "The players are not going to leave any reviveable corpse upon death"
 "spanish" "Los jugadores que mueran no dejaran ningun cadaver revivible"

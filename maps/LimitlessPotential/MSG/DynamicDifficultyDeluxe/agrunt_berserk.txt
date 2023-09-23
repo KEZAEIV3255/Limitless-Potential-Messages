@@ -1,2 +1,2 @@
-"english" "La distancia de enfrentamiento de los alien grunts es ahora $units$ unidades"
+"english" "The alien grunt's berseker range is now $units$ units"
 "spanish" "La distancia de enfrentamiento de los alien grunts es ahora $units$ unidades"

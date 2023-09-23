@@ -1,2 +1,2 @@
-"english" "Los enemigos sabran tu localizacion al atacarlos"
+"english" "The enemies will know your location when attacking them"
 "spanish" "Los enemigos sabran tu localizacion al atacarlos"

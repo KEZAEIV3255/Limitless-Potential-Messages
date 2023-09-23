@@ -1,2 +1,2 @@
-"english" "[DynamicDifficultyDeluxe] Se inicio una votacion de dificultad, escribe un valor de 0 a 100 para votar."
+"english" "[DynamicDifficultyDeluxe] A difficulty vote has started, write a value between 0 to 100 to vote."
 "spanish" "[DynamicDifficultyDeluxe] Se inicio una votacion de dificultad, escribe un valor de 0 a 100 para votar."

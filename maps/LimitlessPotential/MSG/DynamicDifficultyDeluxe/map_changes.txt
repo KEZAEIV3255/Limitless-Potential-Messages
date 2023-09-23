@@ -1,2 +1,2 @@
-"english" "Algunas entidades en los mapas pueden variar dependiente de la difficultad actual"
-"spanish" "Algunas entidades en los mapas pueden variar dependiente de la difficultad actual"
+"english" "Some entities in the maps will be different depending on the current difficulty"
+"spanish" "Algunas entidades en los mapas pueden variar dependiente de la dificultad actual"

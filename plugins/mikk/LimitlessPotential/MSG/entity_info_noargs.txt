@@ -1,1 +1,2 @@
+"english" "No action specified, try some of these commands:"
 "spanish" "Ninguna accion especificada, Intenta alguno de estos comandos:"

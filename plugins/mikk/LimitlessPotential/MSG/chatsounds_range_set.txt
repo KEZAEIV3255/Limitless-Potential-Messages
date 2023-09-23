@@ -1,1 +1,2 @@
+"english" "Set chatsound range to $range$ units"
 "spanish" "Se asigno el rango de chatsounds a $range$ unidades"

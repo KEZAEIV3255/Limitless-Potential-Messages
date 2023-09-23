@@ -1,2 +1,2 @@
-"english" "Los escaudrones de enemigos van a seguir a cualquiera de su escuadron que haya encontrado un enemigo"
+"english" "The enemy in the same squad will follow anyone spotted by another enemy in the same squad"
 "spanish" "Los escaudrones de enemigos van a seguir a cualquiera de su escuadron que haya encontrado un enemigo"

@@ -1,2 +1,2 @@
-"english" "Los proyectiles de los alien grunts ahora van a empujarte"
+"english" "The alien grunt's projectiles will now push you"
 "spanish" "Los proyectiles de los alien grunts ahora van a empujarte"

@@ -1,1 +1,2 @@
+"english" "Hold $args$ to pick up"
 "spanish" "Manten $args$ para agarrar"

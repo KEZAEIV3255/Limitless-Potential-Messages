@@ -1,1 +1,2 @@
+"english" "You have activated the chatsounds, you will hear and play them again"
 "spanish" "Activaste los chatsounds, volveras a oirlos y reproducirlos"

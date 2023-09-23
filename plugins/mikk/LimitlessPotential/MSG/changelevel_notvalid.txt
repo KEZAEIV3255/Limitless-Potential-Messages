@@ -1,1 +1,2 @@
+"english" "The map $map$ doesn't exist in the server!"
 "spanish" "El mapa $map$ no existe en el servidor!"

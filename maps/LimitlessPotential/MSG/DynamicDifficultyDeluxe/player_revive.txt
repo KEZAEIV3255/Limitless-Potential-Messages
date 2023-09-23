@@ -1,2 +1,2 @@
-"english" "Los jugadores reviven y aparecen con $health$ puntos de salud"
+"english" "The players revive and respawn with $health$ health points"
 "spanish" "Los jugadores reviven y aparecen con $health$ puntos de salud"

@@ -1,2 +1,2 @@
-"english" "Los monsters que poseen granadas tienen un $percent$ de probabilidad de lanzar una granada al morir"
+"english" "Monsters that have grenades are going to have a $percent$ of probability to throw a grenade upon death"
 "spanish" "Los monsters que poseen granadas tienen un $percent$ de probabilidad de lanzar una granada al morir"

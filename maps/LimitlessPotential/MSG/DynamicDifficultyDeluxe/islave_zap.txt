@@ -1,2 +1,2 @@
-"english" "Los alien slaves disparan un $speed$ mas rapido"
+"english" "The alien slaves shoot $speed$ faster"
 "spanish" "Los alien slaves disparan un $speed$ mas rapido"

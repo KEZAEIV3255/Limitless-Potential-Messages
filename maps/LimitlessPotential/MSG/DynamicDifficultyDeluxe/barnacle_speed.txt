@@ -1,2 +1,2 @@
-"english" "Los barnacles ahora te arrastran un $speed$ mas rapido"
+"english" "The barnacles will now pull you $speed$ faster"
 "spanish" "Los barnacles ahora te arrastran un $speed$ mas rapido"

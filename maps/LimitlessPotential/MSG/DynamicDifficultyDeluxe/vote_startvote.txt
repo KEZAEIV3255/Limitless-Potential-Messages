@@ -1,2 +1,2 @@
-"english" "Iniciar una votacion de dificultad."
+"english" "Start a difficulty vote."
 "spanish" "Iniciar una votacion de dificultad."

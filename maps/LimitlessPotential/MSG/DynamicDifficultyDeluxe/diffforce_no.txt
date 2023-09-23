@@ -1,2 +1,2 @@
-"english" "No tienes acceso a este comando, inicia una votacion en el chat escribiendo '/diff'"
+"english" "You do not have acces to this command, start a vote in chat by writing '/diff'"
 "spanish" "No tienes acceso a este comando, inicia una votacion en el chat escribiendo '/diff'"

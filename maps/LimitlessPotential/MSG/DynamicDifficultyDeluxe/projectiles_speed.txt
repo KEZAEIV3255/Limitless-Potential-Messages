@@ -1,2 +1,2 @@
-"english" "La velocidad de los projectiles enemigos es incrementada en un $percent$ porciento"
+"english" "The projectile speed of the enemies is increased $percent$ percent"
 "spanish" "La velocidad de los projectiles enemigos es incrementada en un $percent$ porciento"

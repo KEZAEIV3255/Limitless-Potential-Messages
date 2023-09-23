@@ -1,1 +1,2 @@
+"english" "[Limitless Potential] Admin $admin$ Updated the role of $target$ as $role$"
 "spanish" "[Limitless Potential] Admin $admin$ Actualizo el rol de $target$ como $role$"

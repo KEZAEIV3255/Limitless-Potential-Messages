@@ -1,2 +1,2 @@
-"english" "Las siguientes funciones se podran observar en el gameplay:"
+"english" "The following functions are going to be visible in gameplay:"
 "spanish" "Las siguientes funciones se podran observar en el gameplay:"

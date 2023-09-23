@@ -1,2 +1,2 @@
-"english" "Al morir, los zombies lanzaran su headcrab si este no fue golpeado"
+"english" "Upon death, zombies will throw their headcrabs if it was not hit"
 "spanish" "Al morir, los zombies lanzaran su headcrab si este no fue golpeado"

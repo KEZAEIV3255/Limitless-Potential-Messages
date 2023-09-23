@@ -1,4 +1,4 @@
-"english" "Modo de disparo en rafagas"
+"english" "Burst fire mode"
 "spanish" "Modo de disparo en rafagas"
 "portuguese" "Modo de disparo en rafagas"
 "hold" "2.0"

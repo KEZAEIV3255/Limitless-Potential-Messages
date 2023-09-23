@@ -1,1 +1,2 @@
+"english" "Press $args$ to throw"
 "spanish" "Presiona $args$ para lanzar"

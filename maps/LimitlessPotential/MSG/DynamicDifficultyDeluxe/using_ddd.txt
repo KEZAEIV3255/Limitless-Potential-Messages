@@ -1,2 +1,2 @@
-"english" "Este servidor esta utilizando DynamicDifficultyDeluxe. Para mas informacion escribe /diff"
+"english" "This server is using DynamicDifficultyDeluxe. To se more information write /diff"
 "spanish" "Este servidor esta utilizando DynamicDifficultyDeluxe. Para mas informacion escribe /diff"

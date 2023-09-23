@@ -1,1 +1,2 @@
+"english" "You have to specify a SteamID and a role, Example: .lp_cmd chatrole "SteamID" "Troll""
 "spanish" "Tienes que especificar una SteamID y un rol, Ejemplo: .lp_cmd chatrole "SteamID" "Troll""

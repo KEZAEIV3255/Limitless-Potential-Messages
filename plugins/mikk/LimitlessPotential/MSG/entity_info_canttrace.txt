@@ -1,1 +1,2 @@
+"english" "Not found any solid or visible entity in range of 4096 units in front of your aim.
 "spanish" "No se pudo encontrar ninguna entidad solida y visible en 4096 unidades hacia donde estas mirando!"

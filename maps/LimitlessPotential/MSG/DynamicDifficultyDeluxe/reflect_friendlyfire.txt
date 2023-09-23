@@ -1,2 +1,2 @@
-"english" "El danio inflingido a otros jugadores es reflejado"
+"english" "The damage dealt to other players will be reflected"
 "spanish" "El danio inflingido a otros jugadores es reflejado"

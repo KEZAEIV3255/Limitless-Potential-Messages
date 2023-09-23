@@ -1,2 +1,2 @@
-"english" "The sound by action range has been assigned globally, everyone is going to hear them"
+"english" "The action sound range has been set globally, everyone is going to hear them"
 "spanish" "El rango de sonido por acciones fue asignado globalmente, todo el mundo los va a oir"

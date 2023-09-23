@@ -1,1 +1,2 @@
+"english" ".lp_cmd chatsounds range "number" | Set a minimun range to hear chatsounds from others, send 0 to set it globally"
 "spanish" ".lp_cmd chatsounds range "numero" | Asigna el rango minimo para oir los chatsounds de los demas, envia 0 para asignarlo globalmente"

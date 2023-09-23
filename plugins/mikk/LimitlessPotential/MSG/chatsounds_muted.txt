@@ -1,1 +1,2 @@
+"english" "You have deactivated the chatsounds, you won't be able to hear or play them"
 "spanish" "Desactivaste los chatsounds, no vas a oirlos ni reproducirlos"
