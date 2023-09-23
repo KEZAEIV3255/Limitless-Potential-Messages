@@ -1,1 +1,2 @@
+"english" ".lp_cmd changelevel "map name" | Change the level to the specified map"
 "spanish" ".lp_cmd changelevel "nombre del mapa" | Cambia de nivel a el mapa especificado"
