@@ -1,1 +1,2 @@
+"english" ".lp_cmd actionsounds "number" | assign the minimun range to hear the action sounds, send 0 to assign it globally"
 "spanish" ".lp_cmd actionsounds "numero" | Asigna el rango minimo para oir sonidos por acciones, envia 0 para asignarlo globalmente"
