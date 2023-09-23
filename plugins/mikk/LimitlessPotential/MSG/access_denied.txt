@@ -1,1 +1,2 @@
+"english" "[Limitless Potential] You dont have access level $level$ to use this command!"
 "spanish" "[Limitless Potential] No tienes acceso nivel $level$ para usar este comando!"
