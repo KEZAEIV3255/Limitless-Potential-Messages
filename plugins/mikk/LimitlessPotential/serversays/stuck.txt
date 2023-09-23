@@ -1,1 +1,2 @@
+"english" "[Limitless Potential] If you are stuck press the L key"
 "spanish" "[Limitless Potential] Si estas atazcado presiona la tecla L"
