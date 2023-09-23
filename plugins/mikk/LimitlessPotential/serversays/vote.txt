@@ -1,1 +1,2 @@
+"english" "[Limitless Potential] To start a vote write /vote and a menu will open"
 "spanish" "[Limitless Potential] Para iniciar una votacion escribe /vote y se abrira un menu"
