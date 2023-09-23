@@ -1,3 +1,3 @@
-"english" "Esta arma le pertenece a $name$"
+"english" "This weapon belongs to $name$"
 "spanish" "Esta arma le pertenece a $name$"
 "portuguese" "Esta arma le pertenece a $name$"
