@@ -1,1 +1,3 @@
+
+"english" "The action sounds has been set to $arg$ units in radious"
 "spanish" "Los sonidos por acciones fueron establecidos en $args$ unidades a la redonda"
